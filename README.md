@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JhayFlourish-20
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning html-css-javascript-for-web-developers
+- 🌱 I’m currently learning html-css-javascript-for-web-development
 - 💞️ I’m looking to collaborate on web page designs
 - 📫 How to reach me ||email: thomassansah@gmail.com or whatsapp on +233206825253||
 
